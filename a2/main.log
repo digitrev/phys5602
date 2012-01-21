@@ -1,0 +1,721 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.17)  21 JAN 2012 15:32
+entering extended mode
+**main.tex
+(C:\Users\Trevor\Documents\School\phys5602\a2\main.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(C:\Users\Trevor\Documents\School\phys5602\preamble.tex
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\siunitx\siunitx.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3names.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3bootstrap.sty"
+Package: l3bootstrap 2011/11/25 v3006 L3 Experimental bootstrap code
+)
+Package: l3names 2011/11/11 v2944 L3 Experimental namespace for primitives
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\misc\etex.sty"
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count88
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count89
+\calc@Bcount=\count90
+\calc@Adimen=\dimen105
+\calc@Bdimen=\dimen106
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count91
+\calc@Cskip=\skip45
+)
+Package: expl3 2011/12/29 v3109 L3 Experimental code bundle wrapper
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3basics.sty"
+Package: l3basics 2011/12/23 v3090 L3 Experimental basic definitions
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3expan.sty"
+Package: l3expan 2011/12/22 v3086 L3 Experimental argument expansion
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3tl.sty"
+Package: l3tl 2011/12/25 v3091 L3 Experimental token lists
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3seq.sty"
+Package: l3seq 2011/12/22 v3085 L3 Experimental sequences and stacks
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3int.sty"
+Package: l3int 2011/12/22 v3086 L3 Experimental integers
+\c_max_int=\count92
+\l_tmpa_int=\count93
+\l_tmpb_int=\count94
+\l_tmpc_int=\count95
+\g_tmpa_int=\count96
+\g_tmpb_int=\count97
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3quark.sty"
+Package: l3quark 2011/12/22 v3086 L3 Experimental quarks
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3prg.sty"
+Package: l3prg 2011/12/22 v3086 L3 Experimental control structures
+\g_prg_map_int=\count98
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3clist.sty"
+Package: l3clist 2011/12/22 v3086 L3 Experimental comma separated lists
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3token.sty"
+Package: l3token 2011/12/27 v3099 L3 Experimental token manipulation
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3prop.sty"
+Package: l3prop 2011/12/22 v3086 L3 Experimental property lists
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3msg.sty"
+Package: l3msg 2011/12/22 v3086 L3 Experimental messages
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3io.sty"
+Package: l3io 2011/12/27 v3096 L3 Experimental input-output operations
+\l_iow_stream_int=\count99
+\l_iow_line_length_int=\count100
+\l_iow_target_length_int=\count101
+\l_iow_current_line_int=\count102
+\l_iow_current_word_int=\count103
+\l_iow_current_indentation_int=\count104
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3file.sty"
+Package: l3file 2011/12/26 v3095 L3 Experimental file operations
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3skip.sty"
+Package: l3skip 2011/12/22 v3086 L3 Experimental dimensions and skips
+\l_tmpa_dim=\dimen107
+\l_tmpb_dim=\dimen108
+\l_tmpc_dim=\dimen109
+\g_tmpa_dim=\dimen110
+\g_tmpb_dim=\dimen111
+\l_tmpa_skip=\skip46
+\l_tmpb_skip=\skip47
+\l_tmpc_skip=\skip48
+\g_tmpa_skip=\skip49
+\g_tmpb_skip=\skip50
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3keys.sty"
+Package: l3keys 2011/12/22 v3086 L3 Experimental key-value interfaces
+\g_keyval_level_int=\count105
+\l_keys_choice_int=\count106
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3fp.sty"
+Package: l3fp 2011/12/22 v3086 L3 Experimental floating-point operations
+\c_one_million=\count107
+\c_one_hundred_million=\count108
+\c_five_hundred_million=\count109
+\c_one_thousand_million=\count110
+\c_fp_pi_by_four_decimal_int=\count111
+\c_fp_pi_by_four_extended_int=\count112
+\c_fp_pi_decimal_int=\count113
+\c_fp_pi_extended_int=\count114
+\c_fp_two_pi_decimal_int=\count115
+\c_fp_two_pi_extended_int=\count116
+\l_fp_count_int=\count117
+\l_fp_div_offset_int=\count118
+\l_fp_exp_integer_int=\count119
+\l_fp_exp_decimal_int=\count120
+\l_fp_exp_extended_int=\count121
+\l_fp_exp_exponent_int=\count122
+\l_fp_input_a_sign_int=\count123
+\l_fp_input_a_integer_int=\count124
+\l_fp_input_a_decimal_int=\count125
+\l_fp_input_a_exponent_int=\count126
+\l_fp_input_b_sign_int=\count127
+\l_fp_input_b_integer_int=\count128
+\l_fp_input_b_decimal_int=\count129
+\l_fp_input_b_exponent_int=\count130
+\l_fp_input_a_extended_int=\count131
+\l_fp_input_b_extended_int=\count132
+\l_fp_mul_a_i_int=\count133
+\l_fp_mul_a_ii_int=\count134
+\l_fp_mul_a_iii_int=\count135
+\l_fp_mul_a_iv_int=\count136
+\l_fp_mul_a_v_int=\count137
+\l_fp_mul_a_vi_int=\count138
+\l_fp_mul_b_i_int=\count139
+\l_fp_mul_b_ii_int=\count140
+\l_fp_mul_b_iii_int=\count141
+\l_fp_mul_b_iv_int=\count142
+\l_fp_mul_b_v_int=\count143
+\l_fp_mul_b_vi_int=\count144
+\l_fp_mul_output_int=\count145
+\l_fp_output_sign_int=\count146
+\l_fp_output_integer_int=\count147
+\l_fp_output_decimal_int=\count148
+\l_fp_output_exponent_int=\count149
+\l_fp_output_extended_int=\count150
+\l_fp_round_position_int=\count151
+\l_fp_round_target_int=\count152
+\l_fp_split_sign_int=\count153
+\l_fp_tmp_int=\count154
+\l_fp_trig_octant_int=\count155
+\l_fp_trig_sign_int=\count156
+\l_fp_trig_decimal_int=\count157
+\l_fp_trig_extended_int=\count158
+\l_fp_tmp_dim=\dimen112
+\l_fp_tmp_skip=\skip51
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3box.sty"
+Package: l3box 2011/12/22 v3086 L3 Experimental boxes
+\l_tmpb_box=\box26
+\l_box_top_dim=\dimen113
+\l_box_bottom_dim=\dimen114
+\l_box_left_dim=\dimen115
+\l_box_right_dim=\dimen116
+\l_box_top_new_dim=\dimen117
+\l_box_bottom_new_dim=\dimen118
+\l_box_left_new_dim=\dimen119
+\l_box_right_new_dim=\dimen120
+\l_box_tmp_box=\box27
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3coffins.sty"
+Package: l3coffins 2011/12/22 v3086 L3 Experimental coffin code layer
+\l_coffin_tmp_box=\box28
+\l_coffin_tmp_dim=\dimen121
+\l_coffin_offset_x_dim=\dimen122
+\l_coffin_offset_y_dim=\dimen123
+\l_coffin_x_dim=\dimen124
+\l_coffin_y_dim=\dimen125
+\l_coffin_x_prime_dim=\dimen126
+\l_coffin_y_prime_dim=\dimen127
+\l_coffin_Depth_dim=\dimen128
+\l_coffin_Height_dim=\dimen129
+\l_coffin_TotalHeight_dim=\dimen130
+\l_coffin_Width_dim=\dimen131
+\c_empty_coffin=\box29
+\l_coffin_aligned_coffin=\box30
+\l_coffin_aligned_internal_coffin=\box31
+\l_coffin_bounding_shift_dim=\dimen132
+\l_coffin_left_corner_dim=\dimen133
+\l_coffin_right_corner_dim=\dimen134
+\l_coffin_bottom_corner_dim=\dimen135
+\l_coffin_top_corner_dim=\dimen136
+\l_coffin_scaled_total_height_dim=\dimen137
+\l_coffin_scaled_width_dim=\dimen138
+\l_coffin_display_coffin=\box32
+\l_coffin_display_coord_coffin=\box33
+\l_coffin_display_pole_coffin=\box34
+\l_coffin_display_offset_dim=\dimen139
+\l_coffin_display_x_dim=\dimen140
+\l_coffin_display_y_dim=\dimen141
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3color.sty"
+Package: l3color 2011/09/07 v2776 L3 Experimental colour support
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3luatex.sty"
+Package: l3luatex 2011/12/22 v3086 L3 Experimental LuaTeX-specific functions
+\g_cctab_allocate_int=\count159
+\g_cctab_stack_int=\count160
+))
+Package: siunitx 2012/01/15 v2.4h A comprehensive (SI) units package
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen142
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen143
+\extrarowheight=\dimen144
+\NC@list=\toks16
+\extratabsurround=\skip52
+\backup@length=\skip53
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty"
+Package: xparse 2011/12/29 v3109 L3 Experimental document command parser
+\l_xparse_m_args_int=\count161
+\l_xparse_mandatory_args_int=\count162
+\l_xparse_processor_int=\count163
+\l_xparse_total_args_int=\count164
+\l_xparse_v_nesting_int=\count165
+)
+Package: l3keys2e 2011/12/29 v3109 LaTeX2e option processing using LaTeX3 keys
+)
+\l_siunitx_tmp_box=\box35
+\l_siunitx_tmp_dim=\dimen145
+\l_siunitx_tmp_int=\count166
+Variant \prop_get:NVNT already defined; not changing it on line 363
+Variant \prop_get:NVNF already defined; not changing it on line 364
+Variant \prop_get:NVNTF already defined; not changing it on line 365
+\l_siunitx_number_mantissa_length_int=\count167
+\l_siunitx_number_uncert_length_int=\count168
+\l_siunitx_round_int=\count169
+\l_siunitx_process_decimal_int=\count170
+\l_siunitx_process_uncertainty_int=\count171
+\l_siunitx_process_fixed_int=\count172
+\l_siunitx_process_integer_min_int=\count173
+\l_siunitx_process_precision_int=\count174
+\l_siunitx_group_min_int=\count175
+\l_siunitx_angle_marker_box=\box36
+\l_siunitx_angle_unit_box=\box37
+\l_siunitx_angle_marker_dim=\dimen146
+\l_siunitx_angle_unit_dim=\dimen147
+\l_siunitx_unit_int=\count176
+\l_siunitx_unit_denominator_int=\count177
+\l_siunitx_unit_numerator_int=\count178
+\l_siunitx_unit_prefix_int=\count179
+\l_siunitx_unit_prefix_base_int=\count180
+\l_siunitx_unit_prefix_gram_int=\count181
+\l_siunitx_number_product_int=\count182
+\c_siunitx_one_fill_skip=\skip54
+\l_siunitx_table_unit_align_skip=\skip55
+\l_siunitx_table_exponent_dim=\dimen148
+\l_siunitx_table_integer_dim=\dimen149
+\l_siunitx_table_mantissa_dim=\dimen150
+\l_siunitx_table_marker_dim=\dimen151
+\l_siunitx_table_result_dim=\dimen152
+\l_siunitx_table_uncert_dim=\dimen153
+\l_siunitx_table_fill_pre_dim=\dimen154
+\l_siunitx_table_fill_post_dim=\dimen155
+\l_siunitx_table_fill_mid_dim=\dimen156
+\l_siunitx_table_pre_box=\box38
+\l_siunitx_table_post_box=\box39
+\l_siunitx_table_mantissa_box=\box40
+\l_siunitx_table_result_box=\box41
+\l_siunitx_table_number_align_skip=\skip56
+\l_siunitx_table_text_align_skip=\skip57
+.................................................
+. xparse info: "define-command"
+. 
+. Defining document command \DeclareBinaryPrefix with arg. spec. 'mmm' on line
+. 6942.
+.................................................
+.................................................
+. xparse info: "define-command"
+. 
+. Defining document command \DeclareSIPostPower with arg. spec. 'mm' on line
+. 6945.
+.................................................
+.................................................
+. xparse info: "define-command"
+. 
+. Defining document command \DeclareSIPrefix with arg. spec. 'mmm' on line
+. 6948.
+.................................................
+.................................................
+. xparse info: "define-command"
+. 
+. Defining document command \DeclareSIPrePower with arg. spec. 'mm' on line
+. 6951.
+.................................................
+.................................................
+. xparse info: "define-command"
+. 
+. Defining document command \DeclareSIQualifier with arg. spec. 'mm' on line
+. 6954.
+.................................................
+.................................................
+. xparse info: "define-command"
+. 
+. Defining document command \DeclareSIUnit with arg. spec. 'O{}mm' on line
+. 6957.
+.................................................
+.................................................
+. xparse info: "define-command"
+. 
+. Defining document command \DeclareSIUnitWithOptions with arg. spec. 'mmm' on
+. line 6960.
+.................................................
+.................................................
+. xparse info: "define-command"
+. 
+. Defining document command \ang with arg. spec. 'o>{\SplitArgument {2}{;}}m'
+. on line 6975.
+.................................................
+.................................................
+. xparse info: "define-command"
+. 
+. Defining document command \num with arg. spec. 'om' on line 6982.
+.................................................
+.................................................
+. xparse info: "define-command"
+. 
+. Defining document command \numlist with arg. spec. 'o>{\SplitList {;}}m' on
+. line 6989.
+.................................................
+.................................................
+. xparse info: "define-command"
+. 
+. Defining document command \numrange with arg. spec. 'omm' on line 6996.
+.................................................
+.................................................
+. xparse info: "define-command"
+. 
+. Defining document command \SIlist with arg. spec. 'o>{\SplitList {;}}mm' on
+. line 7006.
+.................................................
+.................................................
+. xparse info: "define-command"
+. 
+. Defining document command \SIrange with arg. spec. 'ommm' on line 7016.
+.................................................
+.................................................
+. xparse info: "define-command"
+. 
+. Defining document command \SI with arg. spec. 'omom' on line 7026.
+.................................................
+.................................................
+. xparse info: "define-command"
+. 
+. Defining document command \sisetup with arg. spec. 'm' on line 7029.
+.................................................
+.................................................
+. xparse info: "define-command"
+. 
+. Defining document command \tablenum with arg. spec. 'om' on line 7040.
+.................................................
+.................................................
+. xparse info: "define-command"
+. 
+. Defining document command \si with arg. spec. 'om' on line 7050.
+.................................................
+.................................................
+. xparse info: "define-command"
+. 
+. Defining document command \siunitx_bookmark_num:w with arg. spec. 'om' on
+. line 7094.
+.................................................
+.................................................
+. xparse info: "define-command"
+. 
+. Defining document command \siunitx_bookmark_numrange:w with arg. spec. 'omm'
+. on line 7096.
+.................................................
+.................................................
+. xparse info: "define-command"
+. 
+. Defining document command \siunitx_bookmark_SI:w with arg. spec. 'omom' on
+. line 7098.
+.................................................
+.................................................
+. xparse info: "define-command"
+. 
+. Defining document command \siunitx_bookmark_SIlist:w with arg. spec. 'omm'
+. on line 7100.
+.................................................
+.................................................
+. xparse info: "define-command"
+. 
+. Defining document command \siunitx_bookmark_SIrange:w with arg. spec. 'ommm'
+. on line 7102.
+.................................................
+.................................................
+. xparse info: "define-command"
+. 
+. Defining document command \siunitx_bookmark_si:w with arg. spec. 'om' on
+. line 7103.
+.................................................
+\g_ior_tmp_ior=\read1
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\translator\translator
+.sty"
+Package: translator 2010/06/12 ver 1.10
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\translator\translator
+-language-mappings.tex")))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\isotope\isotope.sty"
+Package: isotope 2011/08/26 v0.3 for typesetting isotopes
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip58
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen157
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count183
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count184
+\leftroot@=\count185
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count186
+\DOTSCASE@=\count187
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box42
+\strutbox@=\box43
+\big@size=\dimen158
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count188
+\c@MaxMatrixCols=\count189
+\dotsspace@=\muskip10
+\c@parentequation=\count190
+\dspbrk@lvl=\count191
+\tag@help=\toks17
+\row@=\count192
+\column@=\count193
+\maxfields@=\count194
+\andhelp@=\toks18
+\eqnshift@=\dimen159
+\alignsep@=\dimen160
+\tagshift@=\dimen161
+\tagwidth@=\dimen162
+\totwidth@=\dimen163
+\lineht@=\dimen164
+\@envbody=\toks19
+\multlinegap=\skip59
+\multlinetaggap=\skip60
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2009/06/22 v3.00
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count195
+\Gm@cntv=\count196
+\c@Gm@tempcnt=\count197
+\Gm@bindingoffset=\dimen165
+\Gm@wd@mp=\dimen166
+\Gm@odd@mp=\dimen167
+\Gm@even@mp=\dimen168
+\Gm@layoutwidth=\dimen169
+\Gm@layoutheight=\dimen170
+\Gm@layouthoffset=\dimen171
+\Gm@layoutvoffset=\dimen172
+\Gm@dimlist=\toks21
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\feynmf\feynmp.sty"
+Package: feynmp 1996/12/02 v1.08 LaTeX/MetaPost Feynman Diagram Package (ohl)
+\@outfmf=\write3
+\fmfbuf@=\toks22
+\c@fmfgraph=\count198
+))
+(C:\Users\Trevor\Documents\School\phys5602\a2\main.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count199
+\scratchdimen=\dimen173
+\scratchbox=\box44
+\nofMPsegments=\count200
+\nofMParguments=\count201
+\everyMPshowfont=\toks23
+Normal \count register pool exhausted, switching to extended pool.
+\MPscratchCnt=\count277
+\MPscratchDim=\dimen174
+\MPnumerator=\count278
+\makeMPintoPDFobject=\count279
+\everyMPtoPDFconversion=\toks24
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\translator\dicts\tran
+slator-basic-dictionary-English.dict"
+Dictionary: translator-basic-dictionary, Language: English 
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\siunitx\config\siunitx-abbreviati
+ons.cfg"
+File: siunitx-abbreviations.cfg 2012/01/15 v2.4h siunitx: Abbreviated units
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\siunitx\config\siunitx-binary.cfg
+"
+File: siunitx-binary.cfg 2012/01/15 v2.4h siunitx: Binary units
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c_siunitx_mathsf_int=\count280
+LaTeX Font Info:    Try loading font information for U+msa on input line 8.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 8.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+\c_siunitx_mathtt_int=\count281
+
+(C:\Users\Trevor\Documents\School\phys5602\a2\p1.tex
+File: numu.1 Graphic file (type mps)
+ [MP to PDF]
+(C:\Users\Trevor\Documents\School\phys5602\a2\numu.1)
+(C:\Users\Trevor\Documents\School\phys5602\a2\numu.t1)
+File: nue.1 Graphic file (type mps)
+ [MP to PDF]
+(C:\Users\Trevor\Documents\School\phys5602\a2\nue.1)
+(C:\Users\Trevor\Documents\School\phys5602\a2\nue.t1)
+File: nuecharged.1 Graphic file (type mps)
+ [MP to PDF]
+(C:\Users\Trevor\Documents\School\phys5602\a2\nuecharged.1)
+(C:\Users\Trevor\Documents\School\phys5602\a2\nuecharged.t1))
+(C:\Users\Trevor\Documents\School\phys5602\a2\p2.tex [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}])
+(C:\Users\Trevor\Documents\School\phys5602\a2\p3.tex
+File: etomu.1 Graphic file (type mps)
+ [MP to PDF]
+(C:\Users\Trevor\Documents\School\phys5602\a2\etomu.1)
+(C:\Users\Trevor\Documents\School\phys5602\a2\etomu.t1)) [2]
+(C:\Users\Trevor\Documents\School\phys5602\a2\main.aux) ) 
+Here is how much of TeX's memory you used:
+ 10541 strings out of 494045
+ 217609 string characters out of 3145966
+ 222839 words of memory out of 3000000
+ 13659 multiletter control sequences out of 15000+200000
+ 13450 words of font info for 54 fonts, out of 3000000 for 9000
+ 715 hyphenation exceptions out of 8191
+ 34i,7n,35p,446b,668s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files (x86)/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmsy7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmti10.pfb>
+Output written on main.pdf (2 pages, 110802 bytes).
+PDF statistics:
+ 49 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

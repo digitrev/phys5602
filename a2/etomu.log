@@ -1,0 +1,14 @@
+This is MetaPost, version 1.504 (MiKTeX 2.9)  21 JAN 2012 15:32
+**etomu.mp
+(mpost.mp (C:/Program Files (x86)/MiKTeX 2.9/metapost/base/plain.mp
+Preloading the plain mem file, version 1.004))
+(C:/Users/Trevor/Documents/School/phys5602/a2/etomu.mp
+(C:/Program Files (x86)/MiKTeX 2.9/metapost/feynmf/feynmp.mp) [1] )
+ 
+Here is how much of MetaPost's memory you used:
+ 378 strings using 5884 characters
+ 419104 bytes of node memory
+ 914 symbolic tokens
+ 14i,71n,28p,106b,3f stack positions out of 16i,84n,32p,200b,4f
+1 output file written: etomu.1
+

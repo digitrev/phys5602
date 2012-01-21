@@ -1,0 +1,63 @@
+For $\nu_\mu + e^- \to \nu_\mu + e^-$, the Feynman diagram is
+
+\begin{center}
+\begin{fmffile}{numu}
+	\begin{fmfgraph*}(40,25)
+		\fmfleft{i1,i2}
+		\fmfright{o1,o2}
+
+		\fmf{fermion,label=$e^-$}{i1,v1,i2}
+		\fmf{fermion,label=$\nu_\mu$}{o1,v2,o2}
+		\fmf{boson,label=$Z_0$}{v1,v2}
+
+%		\fmflabel{$e^-$}{i1}
+%		\fmflabel{$e^-$}{i2}
+%		\fmflabel{$\nu_\mu$}{o1}
+%		\fmflabel{$\nu_\mu$}{o2}
+	\end{fmfgraph*}
+\end{fmffile}
+\end{center}
+
+and for $\nu_e + e^- \to \nu_e + e^-$, the Feynman diagram is
+
+\begin{center}
+	\begin{fmffile}{nue}
+		\begin{fmfgraph*}(40,25)
+			\fmfleft{i1,i2}
+			\fmfright{o1,o2}
+			
+			\fmf{fermion,label=$e^-$}{i1,v1,i2}
+			\fmf{fermion,label=$\nu_e$}{o1,v2,o2}
+			\fmf{boson,label=$Z_0$}{v1,v2}
+			
+			%		\fmflabel{$e^-$}{i1}
+			%		\fmflabel{$e^-$}{i2}
+			%		\fmflabel{$\nu_\mu$}{o1}
+			%		\fmflabel{$\nu_\mu$}{o2}
+		\end{fmfgraph*}
+	\end{fmffile}
+\end{center}
+
+The first interaction is a more unequivocal demonstration of weak neutral currents. This is because there is actually a second possible diagram for the second interaction: 
+
+\begin{center}
+	\begin{fmffile}{nuecharged}
+		\begin{fmfgraph*}(40,25)
+			\fmfleft{i1,i2}
+			\fmfright{o1,o2}
+			
+			\fmf{fermion,label=$e^-$}{i1,v1}
+			\fmf{fermion,label=$e^-$}{v2,o2}
+			\fmf{fermion,label=$\nu_e$}{o1,v2}
+			\fmf{fermion,label=$\nu_e$}{v1,i2}
+			\fmf{boson,label=$W^-$}{v1,v2}
+			
+			%		\fmflabel{$e^-$}{i1}
+			%		\fmflabel{$e^-$}{i2}
+			%		\fmflabel{$\nu_\mu$}{o1}
+			%		\fmflabel{$\nu_\mu$}{o2}
+		\end{fmfgraph*}
+	\end{fmffile}
+\end{center}
+
+This also conserves lepton number and charged, but demonstrates weak \emph{charged} current, as opposed to weak \emph{neutral} current.
