@@ -1,3 +1,4 @@
+We are given that $E \gg m$ for all particles involved, and hence $p \gg m$.
 \begin{enumerate}
 	\item The Feynman diagram is given below, using the Feynman-St\"uckelberg interpreation.
 	
@@ -19,5 +20,18 @@
 		\end{fmffile}
 	\end{center}
 	
-	\item 
+    \item When the electron is at rest, we have a momentum of zero and an electron energy of $m_e$. The positron, however, will have a momentum of $p$ and energy $E = \sqrt{p^2 + m_e}^2$. The $Z^0$ will, (by conservation of momentum), have momentum of $p$ and energy $E = \sqrt{p^2 + m_Z^2}$. This would consitute a violation of conservation of energy, but since $\Delta E \Delta t \approx \hbar = 1$ (in natural units), we can have small violations. We also have that $\Delta x = \Delta t$, and so $\Delta x \approx 1/\Delta E$. Then
+	\begin{align*}
+	    \Delta E &= m_e + \sqrt{p^2 + m_e^2} - \sqrt{p^2 + m_Z^2} \\
+		&\approx m_e
+	\end{align*}
+	since we have that $p \gg m_e$ and $p \gg m_Z$. Thus $\Delta x \approx 1 / m_e$.
+
+    \item In the centre of mass frame, the electron has momentum $p$ and energy $E = \sqrt{p^2 + m_e^2}$. Similarly, the positrion has momentum $-p$ and energy $E = \sqrt{p^2 + m_e^2}$. Then by conservation of momentu, the $Z_0$ has momentum $p$ and energy $m_Z$. As before, $\Delta x \approx 1/\Delta E$, and
+	\begin{align*}
+	    \Delta E &= \sqrt{p^2 + m_e^2} + \sqrt{p^2 + m_e^2} - m_Z \\
+		&\approx 2E - m_Z \\
+		&\approx 2E
+	\end{align*}
+	as before, with $E \gg m_e,m_Z$. Then $\Delta x \approx 1/2E$. Then, since $E = \gamma m_e$, and under the lorentz contraction, $d = d'/\gamma$, we get that $\delta x' \approx 1/2m_e$, which is consistent.
 \end{enumerate}

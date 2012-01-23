@@ -11,7 +11,7 @@ vleft (__i1, __i2);
 vright (__o1, __o2);
 vconnect ("fermion,label=$e^-$", __i1, __v1, __i2);
 vconnect ("fermion,label=$\nu _e$", __o1, __v2, __o2);
-vconnect ("boson,label=$Z_0$", __v1, __v2);
+vconnect ("boson,label=$Z^0$", __v1, __v2);
 vfreeze;
 vdraw;
 endsubgraph;
