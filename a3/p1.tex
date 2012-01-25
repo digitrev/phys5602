@@ -1,0 +1,20 @@
+\begin{center}
+\begin{fmffile}{numu}
+	\begin{fmfgraph*}(40,25)
+		\fmfleft{i1,i2}
+		\fmfright{o1,o2}
+
+		\fmf{fermion,label=$u$ or $d$}{i1,v1}
+		\fmf{fermion,label=$\bar{u}$ or $\bar{d}$}{o1,v2}
+		\fmf{fermion}{v1,v2}
+		\fmf{photon,label=$\gamma$}{v1,i2}
+		\fmf{photon,label=$\gamma$}{v2,o2}
+
+%		\fmflabel{$e^-$}{i1}
+%		\fmflabel{$e^-$}{i2}
+%		\fmflabel{$\nu_\mu$}{o1}
+%		\fmflabel{$\nu_\mu$}{o2}
+	\end{fmfgraph*}
+\end{fmffile}
+\end{center}
+
