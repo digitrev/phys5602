@@ -1,0 +1,21 @@
+For this question, we use $n^*$ to be in the centre of mass frame, and $n$ to be in the lab frame.
+
+\begin{enumerate}
+	\item In the centre of mass frame, conservation of momentum and energy gets us that $E^*_{\gamma,1} = E^*_{\gamma,2} = m_\pi/2$, with $p^*_{\gamma,1} = -p^*_{\gamma,2} = m_\pi/2$. If we assume that the photons are traveling at an angle $\theta$ with respect to the $\uv{x}$ direction, then $p^*_x = p^*\cos\theta$, and $p^*_y = p^*\sin\theta$. Then taking a Lorentz boost in the $\uv{x}$ direction at speed $\beta$ and noting that $E_\pi = \gamma m_\pi$, we get
+	\begin{align*}
+		E &= \gamma(E^* - \beta p_x^*)\\
+		E_{\gamma,1} &= \gamma\left[ \frac{m_\pi}{2} - \beta \frac{m_\pi}{2}\cos\theta\right]\\
+			&= \frac{m_\pi}{2}\gamma(1-\beta\cos\theta)\\
+			&= \frac{E_\pi}{2}(1-\beta\cos\theta)\\
+		E_{\gamma,2} &= \gamma\left[ \frac{m_\pi}{2} + \beta \frac{m_\pi}{2}\cos\theta\right]\\
+			&= \frac{m_\pi}{2}\gamma(1+\beta\cos\theta)\\
+			&= \frac{E_\pi}{2}(1+\beta\cos\theta)
+	\end{align*}
+	\item The ratio is given by
+	\begin{align*}
+		R &= \frac{E_{\gamma,1}}{E_{\gamma,2}} \\
+			&= \frac{\frac{E_\pi}{2}(1-\beta\cos\theta)}{\frac{E_\pi}{2}(1+\beta\cos\theta)}\\
+			&= \frac{1-\beta\cos\theta}{1+\beta\cos\theta}
+	\end{align*}
+	\item For ultra relativistic particles, $\beta \approx 1$, and hence $R \approx (1-\cos\theta)/(1+\cos\theta)$.
+\end{enumerate}
