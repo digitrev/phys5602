@@ -10,7 +10,7 @@ pickup pencircle scaled thin;
 vleft (__i1, __i2);
 vright (__o1, __o2);
 vconnect ("fermion,label=$u$ or $d$", __i1, __v1);
-vconnect ("fermion,label=$\bar {u}$ or $\bar {d}$", __o1, __v2);
+vconnect ("fermion,label=$\bar {u}$ or $\bar {d}$", __v2, __o1);
 vconnect ("fermion", __v1, __v2);
 vconnect ("photon,label=$\gamma $", __v1, __i2);
 vconnect ("photon,label=$\gamma $", __v2, __o2);

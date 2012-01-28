@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.1.25)  25 JAN 2012 12:11
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.17)  28 JAN 2012 16:24
 entering extended mode
 **main.tex
-("C:\Documents and Settings\TBURN\My Documents\phys5602\a3\main.tex"
+(C:\Users\Trevor\Documents\School\phys5602\a3\main.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -13,9 +13,9 @@ an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese,
 romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
 sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
 senglishmax, welsh, loaded.
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size10.clo"
 File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -30,32 +30,32 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Documents and Settings\TBURN\My Documents\phys5602\preamble.tex"
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+(C:\Users\Trevor\Documents\School\phys5602\preamble.tex
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count87
@@ -63,22 +63,19 @@ Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-("C:\Documents and Settings\TBURN\Application Data\MiKTeX\2.9\tex\latex\siunitx
-\siunitx.sty"
-("C:\Documents and Settings\TBURN\Application Data\MiKTeX\2.9\tex\latex\l3kerne
-l\expl3.sty"
-("C:\Documents and Settings\TBURN\Application Data\MiKTeX\2.9\tex\latex\l3kerne
-l\l3names.sty"
-("C:\Documents and Settings\TBURN\Application Data\MiKTeX\2.9\tex\latex\l3kerne
-l\l3bootstrap.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\siunitx\siunitx.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3names.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3bootstrap.sty"
 Package: l3bootstrap 2011/11/25 v3006 L3 Experimental bootstrap code
 )
 Package: l3names 2011/11/11 v2944 L3 Experimental namespace for primitives
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\misc\etex.sty"
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\misc\etex.sty"
 Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
 \et@xins=\count88
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\calc.sty"
 Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count89
 \calc@Bcount=\count90
@@ -93,32 +90,27 @@ LaTeX Info: Redefining \addtolength on input line 77.
 )
 Package: expl3 2011/12/29 v3109 L3 Experimental code bundle wrapper
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
 )
-("C:\Documents and Settings\TBURN\Application Data\MiKTeX\2.9\tex\latex\l3kerne
-l\l3basics.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3basics.sty"
 Package: l3basics 2011/12/23 v3090 L3 Experimental basic definitions
 )
-("C:\Documents and Settings\TBURN\Application Data\MiKTeX\2.9\tex\latex\l3kerne
-l\l3expan.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3expan.sty"
 Package: l3expan 2011/12/22 v3086 L3 Experimental argument expansion
 )
-("C:\Documents and Settings\TBURN\Application Data\MiKTeX\2.9\tex\latex\l3kerne
-l\l3tl.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3tl.sty"
 Package: l3tl 2011/12/25 v3091 L3 Experimental token lists
 )
-("C:\Documents and Settings\TBURN\Application Data\MiKTeX\2.9\tex\latex\l3kerne
-l\l3seq.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3seq.sty"
 Package: l3seq 2011/12/22 v3085 L3 Experimental sequences and stacks
 )
-("C:\Documents and Settings\TBURN\Application Data\MiKTeX\2.9\tex\latex\l3kerne
-l\l3int.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3int.sty"
 Package: l3int 2011/12/22 v3086 L3 Experimental integers
 \c_max_int=\count92
 \l_tmpa_int=\count93
@@ -127,33 +119,26 @@ Package: l3int 2011/12/22 v3086 L3 Experimental integers
 \g_tmpa_int=\count96
 \g_tmpb_int=\count97
 )
-("C:\Documents and Settings\TBURN\Application Data\MiKTeX\2.9\tex\latex\l3kerne
-l\l3quark.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3quark.sty"
 Package: l3quark 2011/12/22 v3086 L3 Experimental quarks
 )
-("C:\Documents and Settings\TBURN\Application Data\MiKTeX\2.9\tex\latex\l3kerne
-l\l3prg.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3prg.sty"
 Package: l3prg 2011/12/22 v3086 L3 Experimental control structures
 \g_prg_map_int=\count98
 )
-("C:\Documents and Settings\TBURN\Application Data\MiKTeX\2.9\tex\latex\l3kerne
-l\l3clist.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3clist.sty"
 Package: l3clist 2011/12/22 v3086 L3 Experimental comma separated lists
 )
-("C:\Documents and Settings\TBURN\Application Data\MiKTeX\2.9\tex\latex\l3kerne
-l\l3token.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3token.sty"
 Package: l3token 2011/12/27 v3099 L3 Experimental token manipulation
 )
-("C:\Documents and Settings\TBURN\Application Data\MiKTeX\2.9\tex\latex\l3kerne
-l\l3prop.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3prop.sty"
 Package: l3prop 2011/12/22 v3086 L3 Experimental property lists
 )
-("C:\Documents and Settings\TBURN\Application Data\MiKTeX\2.9\tex\latex\l3kerne
-l\l3msg.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3msg.sty"
 Package: l3msg 2011/12/22 v3086 L3 Experimental messages
 )
-("C:\Documents and Settings\TBURN\Application Data\MiKTeX\2.9\tex\latex\l3kerne
-l\l3io.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3io.sty"
 Package: l3io 2011/12/27 v3096 L3 Experimental input-output operations
 \l_iow_stream_int=\count99
 \l_iow_line_length_int=\count100
@@ -162,12 +147,10 @@ Package: l3io 2011/12/27 v3096 L3 Experimental input-output operations
 \l_iow_current_word_int=\count103
 \l_iow_current_indentation_int=\count104
 )
-("C:\Documents and Settings\TBURN\Application Data\MiKTeX\2.9\tex\latex\l3kerne
-l\l3file.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3file.sty"
 Package: l3file 2011/12/26 v3095 L3 Experimental file operations
 )
-("C:\Documents and Settings\TBURN\Application Data\MiKTeX\2.9\tex\latex\l3kerne
-l\l3skip.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3skip.sty"
 Package: l3skip 2011/12/22 v3086 L3 Experimental dimensions and skips
 \l_tmpa_dim=\dimen107
 \l_tmpb_dim=\dimen108
@@ -180,14 +163,12 @@ Package: l3skip 2011/12/22 v3086 L3 Experimental dimensions and skips
 \g_tmpa_skip=\skip49
 \g_tmpb_skip=\skip50
 )
-("C:\Documents and Settings\TBURN\Application Data\MiKTeX\2.9\tex\latex\l3kerne
-l\l3keys.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3keys.sty"
 Package: l3keys 2011/12/22 v3086 L3 Experimental key-value interfaces
 \g_keyval_level_int=\count105
 \l_keys_choice_int=\count106
 )
-("C:\Documents and Settings\TBURN\Application Data\MiKTeX\2.9\tex\latex\l3kerne
-l\l3fp.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3fp.sty"
 Package: l3fp 2011/12/22 v3086 L3 Experimental floating-point operations
 \c_one_million=\count107
 \c_one_hundred_million=\count108
@@ -244,8 +225,7 @@ Package: l3fp 2011/12/22 v3086 L3 Experimental floating-point operations
 \l_fp_tmp_dim=\dimen112
 \l_fp_tmp_skip=\skip51
 )
-("C:\Documents and Settings\TBURN\Application Data\MiKTeX\2.9\tex\latex\l3kerne
-l\l3box.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3box.sty"
 Package: l3box 2011/12/22 v3086 L3 Experimental boxes
 \l_tmpb_box=\box26
 \l_box_top_dim=\dimen113
@@ -258,8 +238,7 @@ Package: l3box 2011/12/22 v3086 L3 Experimental boxes
 \l_box_right_new_dim=\dimen120
 \l_box_tmp_box=\box27
 )
-("C:\Documents and Settings\TBURN\Application Data\MiKTeX\2.9\tex\latex\l3kerne
-l\l3coffins.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3coffins.sty"
 Package: l3coffins 2011/12/22 v3086 L3 Experimental coffin code layer
 \l_coffin_tmp_box=\box28
 \l_coffin_tmp_dim=\dimen121
@@ -290,25 +269,25 @@ Package: l3coffins 2011/12/22 v3086 L3 Experimental coffin code layer
 \l_coffin_display_x_dim=\dimen140
 \l_coffin_display_y_dim=\dimen141
 )
-("C:\Documents and Settings\TBURN\Application Data\MiKTeX\2.9\tex\latex\l3kerne
-l\l3color.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3color.sty"
 Package: l3color 2011/09/07 v2776 L3 Experimental colour support
 )
-("C:\Documents and Settings\TBURN\Application Data\MiKTeX\2.9\tex\latex\l3kerne
-l\l3luatex.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3luatex.sty"
 Package: l3luatex 2011/12/22 v3086 L3 Experimental LuaTeX-specific functions
 \g_cctab_allocate_int=\count159
 \g_cctab_stack_int=\count160
 ))
 Package: siunitx 2012/01/15 v2.4h A comprehensive (SI) units package
- ("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
 Package: amstext 2000/06/29 v2.01
-("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks15
 \ex@=\dimen142
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
 Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen143
 \extrarowheight=\dimen144
@@ -316,10 +295,8 @@ Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \extratabsurround=\skip52
 \backup@length=\skip53
 )
-("C:\Documents and Settings\TBURN\Application Data\MiKTeX\2.9\tex\latex\l3packa
-ges\l3keys2e\l3keys2e.sty"
-("C:\Documents and Settings\TBURN\Application Data\MiKTeX\2.9\tex\latex\l3packa
-ges\xparse\xparse.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty"
 Package: xparse 2011/12/29 v3109 L3 Experimental document command parser
 \l_xparse_m_args_int=\count161
 \l_xparse_mandatory_args_int=\count162
@@ -505,25 +482,25 @@ Variant \prop_get:NVNTF already defined; not changing it on line 365
 .................................................
 \g_ior_tmp_ior=\read1
 
-("C:\Documents and Settings\TBURN\Application Data\MiKTeX\2.9\tex\latex\beamer\
-base\translator\translator.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\translator\translator
+.sty"
 Package: translator 2010/06/12 ver 1.10
 
-("C:\Documents and Settings\TBURN\Application Data\MiKTeX\2.9\tex\latex\beamer\
-base\translator\translator-language-mappings.tex")))
-("C:\Documents and Settings\TBURN\Application Data\MiKTeX\2.9\tex\latex\isotope
-\isotope.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\translator\translator
+-language-mappings.tex")))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\isotope\isotope.sty"
 Package: isotope 2011/08/26 v0.3 for typesetting isotopes
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
 Package: amsmath 2000/07/18 v2.13 AMS math features
 \@mathmargin=\skip58
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen157
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count183
@@ -564,28 +541,28 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
 LaTeX Info: Redefining \[ on input line 2666.
 LaTeX Info: Redefining \] on input line 2667.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
 Package: amssymb 2009/06/22 v3.00
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
 Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
 Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count195
@@ -601,15 +578,14 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen172
 \Gm@dimlist=\toks21
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
-("C:\Documents and Settings\TBURN\Application Data\MiKTeX\2.9\tex\latex\feynmf\
-feynmp.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\feynmf\feynmp.sty"
 Package: feynmp 1996/12/02 v1.08 LaTeX/MetaPost Feynman Diagram Package (ohl)
 \@outfmf=\write3
 \fmfbuf@=\toks22
 \c@fmfgraph=\count198
 ))
-("C:\Documents and Settings\TBURN\My Documents\phys5602\a3\main.aux")
+(C:\Users\Trevor\Documents\School\phys5602\a3\main.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
@@ -623,8 +599,7 @@ LaTeX Font Info:    ... okay on input line 8.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
 
-("C:\Documents and Settings\TBURN\Application Data\MiKTeX\2.9\tex\context\base\
-supp-pdf.mkii"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count199
 \scratchdimen=\dimen173
@@ -639,16 +614,16 @@ Normal \count register pool exhausted, switching to extended pool.
 \makeMPintoPDFobject=\count279
 \everyMPtoPDFconversion=\toks24
 )
-("C:\Documents and Settings\TBURN\Application Data\MiKTeX\2.9\tex\latex\beamer\
-base\translator\dicts\translator-basic-dictionary-English.dict"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\translator\dicts\tran
+slator-basic-dictionary-English.dict"
 Dictionary: translator-basic-dictionary, Language: English 
 )
-("C:\Documents and Settings\TBURN\Application Data\MiKTeX\2.9\tex\latex\siunitx
-\config\siunitx-abbreviations.cfg"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\siunitx\config\siunitx-abbreviati
+ons.cfg"
 File: siunitx-abbreviations.cfg 2012/01/15 v2.4h siunitx: Abbreviated units
 )
-("C:\Documents and Settings\TBURN\Application Data\MiKTeX\2.9\tex\latex\siunitx
-\config\siunitx-binary.cfg"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\siunitx\config\siunitx-binary.cfg
+"
 File: siunitx-binary.cfg 2012/01/15 v2.4h siunitx: Binary units
 )
 *geometry* driver: auto-detecting
@@ -687,49 +662,58 @@ File: siunitx-binary.cfg 2012/01/15 v2.4h siunitx: Binary units
 
 \c_siunitx_mathsf_int=\count280
 LaTeX Font Info:    Try loading font information for U+msa on input line 8.
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 8.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
 \c_siunitx_mathtt_int=\count281
 
-("C:\Documents and Settings\TBURN\My Documents\phys5602\a3\p1.tex"
+(C:\Users\Trevor\Documents\School\phys5602\a3\p1.tex
 File: pidecay.1 Graphic file (type mps)
  [MP to PDF]
-("C:\Documents and Settings\TBURN\My Documents\phys5602\a3\pidecay.1")
-("C:\Documents and Settings\TBURN\My Documents\phys5602\a3\pidecay.t1"))
-("C:\Documents and Settings\TBURN\My Documents\phys5602\a3\p2.tex")
-("C:\Documents and Settings\TBURN\My Documents\phys5602\a3\p3.tex" [1
+(C:\Users\Trevor\Documents\School\phys5602\a3\pidecay.1)
+(C:\Users\Trevor\Documents\School\phys5602\a3\pidecay.t1))
+(C:\Users\Trevor\Documents\School\phys5602\a3\p2.tex)
+(C:\Users\Trevor\Documents\School\phys5602\a3\p3.tex [1
 
-{C:/Documents and Settings/TBURN/Local Settings/Application Data/MiKTeX/2.9/pdf
-tex/config/pdftex.map}]) ("C:\Documents and Settings\TBURN\My Documents\phys560
-2\a3\p4.tex") [2] ("C:\Documents and Settings\TBURN\My Documents\phys5602\a3\ma
-in.aux") ) 
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}])
+(C:\Users\Trevor\Documents\School\phys5602\a3\p4.tex
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 50.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 50.
+ [2]) [3]
+(C:\Users\Trevor\Documents\School\phys5602\a3\main.aux) ) 
 Here is how much of TeX's memory you used:
- 10529 strings out of 494045
- 218955 string characters out of 3148333
- 225839 words of memory out of 3000000
- 13657 multiletter control sequences out of 15000+200000
+ 10546 strings out of 494045
+ 217365 string characters out of 3145966
+ 237839 words of memory out of 3000000
+ 13671 multiletter control sequences out of 15000+200000
  14031 words of font info for 56 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 34i,11n,35p,507b,662s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pf
-b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pf
-b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on main.pdf (2 pages, 118739 bytes).
+ 34i,15n,35p,507b,662s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files (x86)/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Program Files (x86)/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files (x86)/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmsy7.pfb>
+Output written on main.pdf (3 pages, 128771 bytes).
 PDF statistics:
- 53 PDF objects out of 1000 (max. 8388607)
+ 56 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

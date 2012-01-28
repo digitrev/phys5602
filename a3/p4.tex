@@ -1,0 +1,118 @@
+\begin{enumerate}
+	\item 
+	We have that the CKM matrix is a unitary matrix, with
+	\begin{align*}
+		V &= 
+		\begin{pmatrix}
+			V_{ud} & V_{us} & V_{ub}\\
+			V_{cd} & V_{cs} & V_{cb}\\
+			V_{td} & V_{ts} & V_{tb}
+		\end{pmatrix}
+	\end{align*}
+	where
+	\begin{align*}
+		\begin{pmatrix}
+			d'\\
+			s'\\
+			b'
+		\end{pmatrix} 
+		&= V
+		\begin{pmatrix}
+			d\\
+			s\\
+			b
+		\end{pmatrix}
+	\end{align*}
+	
+	Then since $V$ is unitary, we have the following
+	\begin{align*}
+		1 &= VV^\dagger\\
+		\begin{pmatrix}
+			1 & 0 & 0 \\
+			0 & 1 & 0 \\
+			0 & 0 & 1
+		\end{pmatrix}
+		&= 
+		\begin{pmatrix}
+			V_{ud} & V_{us} & V_{ub}\\
+			V_{cd} & V_{cs} & V_{cb}\\
+			V_{td} & V_{ts} & V_{tb}
+		\end{pmatrix}
+		\begin{pmatrix}
+			V_{ud}^* & V_{cd}^* & V_{td}^*\\
+			V_{us}^* & V_{cs}^* & V_{ts}^*\\
+			V_{ub}^* & V_{cb}^* & V_{tb}^*
+		\end{pmatrix}
+	\end{align*}
+	
+	This gives us
+	\begin{itemize}
+		\item $|V_{ud}|^2 + |V_{us}|^2 + |V_{ub}|^2 = 1$
+		\item $|V_{cd}|^2 + |V_{cs}|^2 + |V_{cb}|^2 = 1$
+		\item $|V_{td}|^2 + |V_{ts}|^2 + |V_{tb}|^2 = 1$
+		\item $V_{ud}V_{cd}^* + V_{us}V_{cs}^* + V_{ub}V_{cb}^* = 0$
+		\item $V_{ud}V_{td}^* + V_{us}V_{ts}^* + V_{ub}V_{tb}^* = 0$
+		\item $V_{cd}V_{td}^* + V_{cs}V_{ts}^* + V_{cb}V_{tb}^* = 0$
+	\end{itemize}
+	Note: there would be three more, but these are simply the complex conjugates of the last 3, and hence provide no information.
+	
+	We also have 
+	\begin{align*}
+		1 &= V^\dagger V\\
+		\begin{pmatrix}
+			1 & 0 & 0 \\
+			0 & 1 & 0 \\
+			0 & 0 & 1
+		\end{pmatrix}
+		&= 
+		\begin{pmatrix}
+			V_{ud}^* & V_{cd}^* & V_{td}^*\\
+			V_{us}^* & V_{cs}^* & V_{ts}^*\\
+			V_{ub}^* & V_{cb}^* & V_{tb}^*
+		\end{pmatrix}
+		\begin{pmatrix}
+			V_{ud} & V_{us} & V_{ub}\\
+			V_{cd} & V_{cs} & V_{cb}\\
+			V_{td} & V_{ts} & V_{tb}
+		\end{pmatrix}
+	\end{align*}
+	
+	This gives us
+	\begin{itemize}
+		\item $|V_{ud}|^2 + |V_{cd}|^2 + |V_{td}|^2 = 1$
+		\item $|V_{us}|^2 + |V_{cs}|^2 + |V_{ts}|^2 = 1$
+		\item $|V_{ub}|^2 + |V_{cb}|^2 + |V_{tb}|^2 = 1$
+		\item $V_{ud}V_{us}^* + V_{cd}V_{cs}^* + V_{td}V_{ts}^* = 0$
+		\item $V_{ud}V_{ub}^* + V_{cd}V_{cb}^* + V_{td}V_{tb}^* = 0$
+		\item $V_{us}V_{ub}^* + V_{cs}V_{cb}^* + V_{ts}V_{tb}^* = 0$
+	\end{itemize}
+	As before, the other three relationships are just the complex conjugates.
+	\item We then have
+	\begin{align*}
+		\begin{pmatrix}
+			\bar{d}'\\
+			\bar{s}'\\
+			\bar{b}'
+		\end{pmatrix}
+		= V^*
+		\begin{pmatrix}
+			\bar{d}\\
+			\bar{s}\\
+			\bar{b}
+		\end{pmatrix}
+	\end{align*}
+	where $V^*$ is the complex conjugate. Then
+	\begin{align*}
+		&d'\bar{d}'Z + s'\bar{s}'Z + b'\bar{b}'Z\\
+		=& \left(V_{ud}d + V_{us}s + V_{ub}b\right)\left(V_{ud}^*\bar{d} + V_{us}^*\bar{s} + V_{ub}^*\bar{b}\right)Z\\
+		&+ \left(V_{cd}d + V_{cs}s + V_{cb}b\right)\left(V_{cd}^*\bar{d} + V_{cs}^*\bar{s} + V_{cb}^*\bar{b}\right)Z\\
+		&+ \left(V_{td}d + V_{ts}s + V_{tb}b\right)\left(V_{td}^*\bar{d} + V_{ts}^*\bar{s} + V_{tb}^*\bar{b}\right)Z\\
+		=& d\bar{d}Z \left( |V_{ud}|^2 + |V_{cd}|^2 + |V_{td}|^2\right) + s\bar{s}Z\left(|V_{us}|^2 + |V_{cs}|^2 + |V_{ts}|^2\right)\\
+		&+ b\bar{b}Z \left( |V_{ub}|^2 + |V_{cb}|^2 + |V_{tb}|^2\right) + d\bar{s}Z\left(V_{ud}V_{us}^* + V_{cd}V_{cs}^* + V_{td}V_{ts}^*\right)\\
+		&+ d\bar{b}Z\left(V_{ud}V_{ub}^* + V_{cd}V_{cb}^* + V_{td}V_{tb}^*\right) + s\bar{d}Z\left(V_{us}V_{ud}^* + V_{cs}V_{cd}^* + V_{ts}V_{td}^*\right)\\
+		&+ s\bar{b}Z\left(V_{ub}V_{ud}^* + V_{cb}V_{cd}^* + V_{tb}V_{td}^*\right) + b\bar{d}Z\left(V_{ub}V_{ud}^* + V_{cb}V_{cd}^* + V_{tb}V_{td}^*\right)\\
+		&+ b\bar{s}Z\left(V_{ub}V_{us}^* + V_{cb}V_{cs}^* + V_{tb}V_{ts}^*\right)\\
+		=& d\bar{d}Z + s\bar{s}Z + b\bar{b}Z
+	\end{align*}
+	using the relationships above.
+\end{enumerate}
